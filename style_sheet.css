@@ -1,2 +1,8 @@
-h1 {color:blue; font-size:20px;}
-body {background-color: teal;}
+.h1 {
+    color:blue;
+    font-weight: 400;
+
+    }
+.body {
+    background-color: teal;
+    }
