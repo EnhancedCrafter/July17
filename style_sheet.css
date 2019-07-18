@@ -1,8 +1,10 @@
-.h1 {
-    color:blue;
+h1 {color:blue;font-weight: 400px;}
+body {background-color: teal;}
+.shoe
+    {color: red;
     font-weight: 400;
-
-    }
-.body {
-    background-color: teal;
-    }
+    font-family: Arial, sans-serif;}
+.example{
+    background-color: lightblue;
+    color: green;
+}
